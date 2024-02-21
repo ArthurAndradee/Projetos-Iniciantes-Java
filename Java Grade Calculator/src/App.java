@@ -14,7 +14,7 @@ public class App {
         float division = result / 2;
         System.out.printf("Result is: %f", division);  // Output user input
 
-        //testing in multiple machines, again for a third time
+        //testing in multiple machines, again for a fourth time
         
         read.close();
     }
