@@ -14,7 +14,6 @@ public class App {
         float division = result / 2; //Divide grade
         System.out.printf("Result is: %f", division);  // Output user input
         
-
         read.close();
     }
 }
