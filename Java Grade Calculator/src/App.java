@@ -11,11 +11,10 @@ public class App {
         float secondGrade = read.nextFloat();
 
         float result = firstGrade + secondGrade;
-        float division = result / 2;
+        float division = result / 2; //Divide grade
         System.out.printf("Result is: %f", division);  // Output user input
-
-        //testing in multiple machines, again for a fourth time
         
+
         read.close();
     }
 }
