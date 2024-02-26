@@ -6,8 +6,6 @@ public class App {
         Scanner read = new Scanner(System.in);  // Create a Scanner object
 
         int randomNum = ThreadLocalRandom.current().nextInt(1, 100 + 1);
-        // System.out.print("hint: right guess is ");
-        // System.out.println(randomNum);
 
         System.out.println("Enter your guess");
         int randomNumberGuess = 0;
