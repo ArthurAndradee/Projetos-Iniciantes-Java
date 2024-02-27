@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         Scanner read = new Scanner(System.in);
 
-        System.out.println("Enter your string");
+        System.out.println("Enter your string:");
         String source = read.nextLine();
         System.out.println(source);
 
