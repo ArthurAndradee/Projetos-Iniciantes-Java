@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class App {
+public class GuessTheNumber {
     public static void main(String[] args) throws Exception {
         Scanner read = new Scanner(System.in);  // Create a Scanner object
 

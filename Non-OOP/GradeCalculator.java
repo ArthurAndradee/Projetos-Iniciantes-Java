@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class GradeCalculator {
     public static void main(String[] args) throws Exception {
         Scanner read = new Scanner(System.in);  // Create a Scanner object
 
